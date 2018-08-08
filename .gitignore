@@ -1,2 +1,3 @@
 node_modules
 mochawesome-report
+bot/config/environments/test.json
