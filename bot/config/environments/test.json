@@ -1,7 +1,7 @@
 {
     "luisConfig": {
-        "endPoint": "",
-        "luisAppId": "",
-        "subscriptionKey": ""
+        "endPoint": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/",
+        "luisAppId": "4e943757-cfe0-4194-8b32-d62cb2b179de",
+        "subscriptionKey": "0aea4732ccef4400b804c39ff6609f85"
     }
 }
